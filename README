@@ -1,1 +1,8 @@
 bfsdfs.cpp  bubble.cpp  merge.cpp stats.cpp
+
+Create a new project -> console -> openmp
+Usske baad
+project options -> compiler -> code generation -> language standard -> gnu c++11
+
+
+compiler option -> settings -> code generation -> language standard -> gnu c++11
